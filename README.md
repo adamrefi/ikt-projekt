@@ -1,0 +1,2 @@
+# ikt-projekt
+idojarasjelentes
